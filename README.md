@@ -20,8 +20,10 @@ A passionate Cybersecurity student with a lifelong interest in technology. I’m
 
 
 #### 📝 Working on: 
-- [ ] blogging my first blog 
-- [ ] learning coding languages (c++ and java), and other tech basics 
+- [ ] blogging
+- [ ] gaining experience outside of my degree
+- [ ] adding to my portfolio
+- [ ] finishing my cyb security degree
 
 
 
